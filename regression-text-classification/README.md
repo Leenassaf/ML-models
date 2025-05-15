@@ -1,7 +1,3 @@
-# COMP 551 – Assignment 2  
-**Linear & Logistic Regression for Binary and Multi-Class Classification**  
-**Group Members**: Leen Assaf, Karl Wehbe, Vincent Barsalou
-
 ## 📘 Overview
 
 This project explores how linear regression, logistic regression, and multi-class logistic regression models perform on two classification tasks. All models were implemented from scratch to gain a deeper understanding of their mathematical foundations and performance behavior.
