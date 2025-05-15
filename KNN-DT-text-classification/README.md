@@ -18,13 +18,13 @@ I used a simple, interpretable approach suitable for small to medium-sized text 
 
 ### 2. **K-Nearest Neighbors (KNN)**
 - KNN is a **non-parametric**, instance-based learning method.
-- We use **Gower distance** to handle mixed types of features.
+- I use **Gower distance** to handle mixed types of features.
 - Classification is based on the majority class of the `k` nearest samples.
 
 ### 3. **Decision Tree (DT)**
 - DT is a **supervised learning algorithm** that splits data based on features to make decisions.
-- We used scikit-learn’s `DecisionTreeClassifier` and visualize the tree structure.
-- The model’s interpretability allows us to trace how predictions are made.
+- I used scikit-learn’s `DecisionTreeClassifier` and visualize the tree structure.
+- The model’s interpretability allows me to trace how predictions are made.
 
 ### 4. **Evaluation**
 - **Accuracy**: Proportion of correct predictions.
